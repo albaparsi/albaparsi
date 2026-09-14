@@ -33,7 +33,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-khaki-psi-86.vercel.app/api?username=albaparsi&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-khaki-psi-86.vercel.app/api/top-langs/?username=albaparsi&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-khaki-psi-86.vercel.app/api/top-langs/?username=albaparsi&layout=compact&exclude_repo=LangsamVRProject&theme=radical&hide_border=true"/>
 
 </div>
 
