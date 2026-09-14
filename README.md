@@ -28,17 +28,11 @@
 
 *Also working with: Assembly, LabVIEW, Azure DevOps Pipelines, REST APIs, and various AI/ML techniques (NLP, regression analysis, image processing, fine-tuning)*
 
-## 📊 GitHub Stats
+## Most Used Languages
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-khaki-psi-86.vercel.app/api?username=albaparsi&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats-khaki-psi-86.vercel.app/api/top-langs/?username=albaparsi&layout=compact&exclude_repo=LangsamVRProject&theme=radical&hide_border=true"/>
 
 </div>
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=albaparsi&theme=react-dark&hide_border=true)
-
-</div>
